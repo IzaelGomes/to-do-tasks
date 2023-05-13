@@ -1,0 +1,21 @@
+.containerHeader {
+  height: 12.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--gray-700);
+}
+
+.titleHeader {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.PrincipalText {
+  color: var(--blue);
+  font-weight: 700;
+}
+
+.PrincipalTextTwo {
+  color: var(--purple-dark);
+}
